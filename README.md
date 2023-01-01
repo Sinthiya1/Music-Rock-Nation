@@ -1,1 +1,2 @@
-# Music-Rock-Nation
+# Rock-Nation
+Music website for Rockers!
