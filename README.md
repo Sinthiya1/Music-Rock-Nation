@@ -1,2 +1,2 @@
 # Rock-Nation
-Music website for Rockers!
+This is a music Website for those people who like music.
